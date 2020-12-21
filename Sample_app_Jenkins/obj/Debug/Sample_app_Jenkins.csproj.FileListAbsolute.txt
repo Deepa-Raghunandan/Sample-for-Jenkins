@@ -1,0 +1,7 @@
+C:\Users\deepa.raghunandan\source\repos\Sample_app_Jenkins\Sample_app_Jenkins\bin\Debug\Sample_app_Jenkins.exe.config
+C:\Users\deepa.raghunandan\source\repos\Sample_app_Jenkins\Sample_app_Jenkins\bin\Debug\Sample_app_Jenkins.exe
+C:\Users\deepa.raghunandan\source\repos\Sample_app_Jenkins\Sample_app_Jenkins\bin\Debug\Sample_app_Jenkins.pdb
+C:\Users\deepa.raghunandan\source\repos\Sample_app_Jenkins\Sample_app_Jenkins\obj\Debug\Sample_app_Jenkins.csprojAssemblyReference.cache
+C:\Users\deepa.raghunandan\source\repos\Sample_app_Jenkins\Sample_app_Jenkins\obj\Debug\Sample_app_Jenkins.csproj.CoreCompileInputs.cache
+C:\Users\deepa.raghunandan\source\repos\Sample_app_Jenkins\Sample_app_Jenkins\obj\Debug\Sample_app_Jenkins.exe
+C:\Users\deepa.raghunandan\source\repos\Sample_app_Jenkins\Sample_app_Jenkins\obj\Debug\Sample_app_Jenkins.pdb
